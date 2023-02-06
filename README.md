@@ -1,13 +1,9 @@
 # Hi there, my name is **Karla**! 👋
 I'm an Insurance Professional at USAA and student at the University of Arizona Global Campus. I've lived in sunny Florida since 2019, but I will always be a Texan at heart! In my spare time I enjoy spending time on the water kayaking and paddleboarding, I love watching all kinds of movies, and lately I've taken an interest in the art of pixel making without technology - cross-stitching!
 
-🔭 I'm currently working on switching careers into IT as a Software Developer. I'm estimated to graduate with a Bachelor of Science in Computer Software Technology in May 2023. 
+🔭 🌱I'm currently working on switching careers into IT as a Software Developer. I'm estimated to graduate with a Bachelor of Science in Computer Software Technology in May 2023. There I'm improving my software development skills and exploring different ways I can create useful applications.
 
-🌱 Currently, I'm working on improving my software development skills and exploring different ways I can use and improve these skills to create useful applications.
-
-👯 I’m looking to collaborate on projects to improve my software development skills and help others along the way!
-
-🤔 I’m looking for help in any of the above - including landing my first software development job! 
+👯 Now I am looking to take the next step and find my first software development job where I can continue to grow in the field of IT! I have a team first mindset, I am coachable, and am eager to put my best foot forward in my new career.
 
 📫 Feel free to reach me via email at ksanch7@gmail.com.
 
