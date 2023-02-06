@@ -1,5 +1,5 @@
 # Hi there, my name is **Karla**! 👋
-I'm a student at the University of Arizona Global Campus and an Insurance Professional at USAA. I've lived in sunny Florida since 2019, but I will always be a Texan! In my spare time I enjoy spending time in the water Kayaking and Paddleboarding, I love watching all kinds of movies, and lately I've taken an interest in the art of pixel making without technology - cross-stitching!
+I'm an Insurance Professional at USAA and student at the University of Arizona Global Campus. I've lived in sunny Florida since 2019, but I will always be a Texan at heart! In my spare time I enjoy spending time on the water kayaking and paddleboarding, I love watching all kinds of movies, and lately I've taken an interest in the art of pixel making without technology - cross-stitching!
 
 🔭 I'm currently working on switching careers into IT as a Software Developer. I'm estimated to graduate with a Bachelor of Science in Computer Software Technology in May 2023. 
 
