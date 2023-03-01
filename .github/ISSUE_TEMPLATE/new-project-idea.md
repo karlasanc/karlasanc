@@ -15,12 +15,25 @@ Created For: [Name of Class/Company]
 <!-- Provide a general description of what the project's main purpose is-->
 
 ## User Stories
-1. As a [type of user] i want [goal] so that [reason/benefit].
-2. As a [type of user] i want [goal] so that [reason/benefit].
-3. As a [type of user] i want [goal] so that [reason/benefit].
-<!-- List out single, small scenarios from a user perspective describing what the users goal will be, what the user want to do it, and why they want to do-->
+###[Type of User]
+1. [goal] -> so that [reason/benefit]
+2. [goal] -> so that [reason/benefit]
+3. [goal] -> so that [reason/benefit]
 
-## Resources
+###[Type of User]
+1. [goal] -> so that [reason/benefit]
+2. [goal] -> so that [reason/benefit]
+3. [goal] -> so that [reason/benefit]
+
+<!-- List out single, small scenarios from a user perspective describing what the users goal will be, what the user want to do it, and why they want to do-->
+<!-- Focus on what the user wants to accomplish and why-->
+
+## Use Case
+### Title: [What is the goal]
+### Actor: [Who desires it]
+### Scenario: [How is it accomplished]
+
+## Development Tools Used
 - programming language
 - framework used
 - tools used
