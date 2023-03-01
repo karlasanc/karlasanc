@@ -12,19 +12,19 @@ Requested By: [Name of Requester]
 <!-- Replace brackets and all content within brackets-->
 
 ## Project Purpose
-<!-- Provide short description of what the project's purpose is-->
+<!-- Provide a general description of what the project's main purpose is-->
 
 ## Features
 - [ ] feature 1
 - [ ] feature 2
 - [ ] feature 3 
-<!-- Include use case scenarios above. -->
+<!-- Determine what the project will do -->
 
 ## Resources
 - programming language
--  framework used
--  tools used
--  IDE name
+- framework used
+- tools used
+- IDE name
 <!-- Include any type of relevant technology used/need to use to create project. -->
 
 # Acknowledgements
