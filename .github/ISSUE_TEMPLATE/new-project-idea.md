@@ -7,18 +7,18 @@ assignees: karlasanc
 
 ---
 
-# [Project Name]
+# [Project Idea Name]
 Requested By: [Name of Requester]
-<!-- Replace brackets and all content within brackets-->
+Created For: [Name of Class/Company]
 
 ## Project Purpose
 <!-- Provide a general description of what the project's main purpose is-->
 
-## Features
-- [ ] feature 1
-- [ ] feature 2
-- [ ] feature 3 
-<!-- Determine what the project will do -->
+## User Stories
+1. As a [type of user] i want [goal] so that [reason/benefit].
+2. As a [type of user] i want [goal] so that [reason/benefit].
+3. As a [type of user] i want [goal] so that [reason/benefit].
+<!-- List out single, small scenarios from a user perspective describing what the users goal will be, what the user want to do it, and why they want to do-->
 
 ## Resources
 - programming language
