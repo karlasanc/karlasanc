@@ -1,8 +1,8 @@
 # Hi there, my name is **Karla**! 👋
 
-Karla is an Insurance Professional at USAA and a student at the University of Arizona Global Campus. She's a current resident of Florida, but was raised in Texas. In her spare time, Karla likes to spend her time kayaking, paddleboarding, cycling, running, watching movies, and sewing!
+Karla is a recent graduate from the University of Arizona Global Campus where she completed a Computer Software Technology Bachlor's Degree in July 2023. She currently resides in Florida where she spend her time kayaking, paddleboarding, cycling, running, watching movies, and sewing!
 
-🌱 Karla is currently working towards a careers in IT as a Software Developer. She is estimated to graduate with a Bachelor of Science in Computer Software Technology in July 2023.
+🌱 Karla is currently working towards a careers in IT as a Full-Stack Software Developer. She has maintained her foot in the IT industry by working technical support jobs where she has assisted customers with their technology grievances and helping software developers and project managers discover ways to improve processes. She hopes to help improve the technology of the future by being part of the development process. 
 
 📫 Karla can be reached via email at karlaastridsanchez@gmail.com
 
