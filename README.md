@@ -1,9 +1,8 @@
-# Hi there, my name is **Karla**! 👋
+# Hi there, my name is **Karla**!
+Karla graduated from the University of Arizona Global Campus with a Bachelor of Science in Software Engineering in July 2023. She currently lives in Florida and enjoys various activities during her free time, such as kayaking, paddleboarding, cycling, running, watching movies, and sewing.
 
-Karla is a recent graduate from the University of Arizona Global Campus where she completed a Computer Software Technology Bachlor's Degree in July 2023. She currently resides in Florida where she spend her time kayaking, paddleboarding, cycling, running, watching movies, and sewing!
+🌱 Karla is striving to pursue a career in IT as a Software Developer. She has been maintaining her presence in the IT industry by working in technical support roles, where she has been assisting customers with their technology-related issues, as well as helping software developers and project managers to identify ways to enhance their processes. Her ultimate goal is to contribute to the advancement of technology by actively participating in the development process.
 
-🌱 Karla is currently working towards a careers in IT as a Full-Stack Software Developer. She has maintained her foot in the IT industry by working technical support jobs where she has assisted customers with their technology grievances and helping software developers and project managers discover ways to improve processes. She hopes to help improve the technology of the future by being part of the development process. 
+📫 Karla can be reached via email at karla.a.sanchez@outlook.com
 
-📫 Karla can be reached via email at karlaastridsanchez@gmail.com
-
-⚡ Fun fact: Karla's first application was a static HTML-based website she created in 2009. The website came at a time before CSS and HTML5. The site was embarrasingly devoted solely to Johnny Depp and including several pages that displayed his biography, pictures, and random fun facts.
+⚡ Fun fact: As a high school senior, Karla created her first application in 2009. It was a static website based on HTML solely dedicated to Johnny Depp, his biography, pictures, and interesting facts. 
