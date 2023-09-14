@@ -1,8 +1,9 @@
 # Hi there, my name is **Karla**!
-Karla graduated from the University of Arizona Global Campus with a Bachelor of Science in Software Engineering in July 2023. She currently lives in Florida and enjoys various activities during her free time, such as kayaking, paddleboarding, cycling, running, watching movies, and sewing.
 
-🌱 Karla is striving to pursue a career in IT as a Software Developer. She has been maintaining her presence in the IT industry by working in technical support roles, where she has been assisting customers with their technology-related issues, as well as helping software developers and project managers to identify ways to enhance their processes. Her ultimate goal is to contribute to the advancement of technology by actively participating in the development process.
+I currently live in Florida. I graduated from the University of Arizona Global Campus with a Bachelor of Science in Software Engineering in July 2023. I've been working on building my online presence, so if you happen to catch an error, feel free to let me know! I've been in the IT for at least a decade, but strictly in the troublehsooting and user testing side. I look forward to merging my amazing customer service, meticulous problem solving, and newly acquired software development skills to building innovated technologies. 
 
-📫 Karla can be reached via email at karla.a.sanchez@outlook.com
+🌱 When I'm not in front of the computer, I am typically watching a movie, working on my next cross-stitching project, or adventuring along the alligators in the Florida swamps on a kayak. (just kidding about the swamps lol)
 
-⚡ Fun fact: As a high school senior, Karla created her first application in 2009. It was a static website based on HTML solely dedicated to Johnny Depp, his biography, pictures, and interesting facts. 
+📫 I can be reached via email at karla.a.sanchez@outlook.com. If you want to know more about me, visit my new website! [karlasanchez.us](https://karlasanchez.us).
+
+⚡ Fun fact: The first time I fell in love with the things technology could do was when my brother and I discovered Paint on our home computer in the early 2000s. We would fight over who got to use the computer next and all we would do was play on paint. We never did get good at it. :D 
