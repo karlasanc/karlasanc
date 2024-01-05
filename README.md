@@ -1,9 +1,19 @@
-# Hi there, my name is **Karla**!
+ ## Hi there, my name is **Karla**! 👋
 
-I currently live in Florida. I graduated from the University of Arizona Global Campus with a Bachelor of Science in Software Engineering in July 2023. I've been working on building my online presence, so if you happen to catch an error, feel free to let me know! I've been in the IT for at least a decade, but strictly in the troublehsooting and user testing side. I look forward to merging my amazing customer service, meticulous problem solving, and newly acquired software development skills to building innovated technologies. 
+🌎 I live in sunny Florida. 
 
-🌱 When I'm not in front of the computer, I am typically watching a movie, working on my next cross-stitching project, or adventuring along the alligators in the Florida swamps on a kayak. (just kidding about the swamps lol)
+🎒 I recently graduated from the University of Arizona Global Campus with a Bachelor of Science in Computer Software Technology in October 2023.
 
-📫 I can be reached via email at karla.a.sanchez@outlook.com. If you want to know more about me, visit my new website! [karlasanchez.us](https://karlasanchez.us).
+💻 I've been in IT for at least a decade but switched to insurance sales to pay for my school. I look forward to merging customer service, meticulous problem-solving, and newly acquired software development skills to build innovative technologies for the future.
 
-⚡ Fun fact: The first time I fell in love with the things technology could do was when my brother and I discovered Paint on our home computer in the early 2000s. We would fight over who got to use the computer next and all we would do was play on paint. We never did get good at it. :D 
+📧 I've been working on building my online presence; feel free to reach out if you have any feedback on my projects. I am super open to feedback. My contact details are below.
+
+🌱 I am currently teaching myself Laravel and brushing up on my knowledge of Python. I learned all the basics of how to code with Python, but the majority of the programs I completed in my studies were in vanilla PHP. I am getting a kick out of improving them using Laravel. 
+
+📱 Feel free to reach out with any feedback or resources; I am super open to feedback, especially related to my website/portfolio. My contact details and website link are below:
+
+📫 ksanch7@icloud.com
+
+🖥️ [karlasanchez.us](https://karlasanchez.us)
+
+⚡ Fun fact: My favorite animal is a frog. When I was a kid my family nicknamed me "Rana" because my eyes were bigger than most kids. "Rana" means frog in spanish 🐸.
