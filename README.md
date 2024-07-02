@@ -12,6 +12,6 @@
 
 📱 Feel free to reach out with any feedback or resources; I am open to feedback, especially related to my website/portfolio. My contact details and website link are below:
 
-📫 ksanch7@icloud.com
+📫 karlaonrails@gmail.com
 
 🖥️ [karlasanchez.us](https://karlasanchez.us)
